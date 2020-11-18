@@ -2,6 +2,11 @@
 What i did to make linux less shitty
 
 
+# Menu
+
+- [Fonts](#Fonts)
+- [Audio](#Audio)
+
 
 # Fonts
 
