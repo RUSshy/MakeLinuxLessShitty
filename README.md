@@ -169,6 +169,7 @@ Audio on linux SUCKS, here is how to fix it, it's easy
 - Install pulseeffects https://github.com/wwmm/pulseeffects
 - Run pulseeffects
 - Select: Limiter, Compressor, Loudness Compensator
+- In settings (top right icon), make sure to enable "Start Service at Login"
 - Reboot your computer
 
 
